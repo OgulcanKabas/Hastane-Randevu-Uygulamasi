@@ -1,0 +1,39 @@
+body{
+	
+}
+.header{
+	width:1400px;
+	height:100px;
+}
+
+.randevual{
+	height: 46px;
+    width: 120px;
+    border-radius: 5px;
+    background-color: #33b9b2;
+    border: none;
+    color: rgb(255, 255, 255);
+    z-index: 1;
+	float:right;
+	position:relative;
+    margin-right: 10px;
+    font-weight: 600;
+	
+}
+.logo{
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	border: 5px solid #999;
+	
+	
+	
+}
+.slider{
+	background-image : url("../img/arkaplan.png");
+    background-size:     cover;                      
+    background-repeat:   no-repeat;
+    background-position: center center; 
+	width: 1400px;
+	height :700px ;
+}
